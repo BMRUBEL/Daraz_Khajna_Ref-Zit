@@ -1,0 +1,5 @@
+.addBg {
+  background-image: url(../../assets/sidebar_background.png) !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
